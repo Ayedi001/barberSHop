@@ -1,0 +1,15 @@
+export const fr = {
+  "nav.home": "Accueil",
+  "nav.barbers": "Nos Barbiers & Salons",
+  "nav.how": "Comment ça marche",
+  "nav.about": "À propos",
+  "nav.contact": "Contact",
+  "nav.login": "Se connecter",
+  "nav.space": "Mon espace",
+  "cta.find": "Trouver un barbier",
+  "cta.book": "Prendre rendez-vous",
+  "cta.partner": "Vous êtes barbier ? Rejoignez-nous",
+  "cta.profile": "Voir le salon & tarifs",
+  "cta.contact": "Contacter",
+  "footer.rights": "Tous droits réservés.",
+};
